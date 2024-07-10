@@ -1,0 +1,21 @@
+{
+  "name": "tokyonight-day",
+  "displayName": "tokyonight_day",
+  "description": "Tokyo Night Day theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night Day",
+        "uiTheme": "vs",
+        "path": "./themes/Tokyo Night Day-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"tokenColors": "./tokyonight_day.tmTheme",
+	"colors": {
+		"editor.background": "#e1e2e7",
+		"editorCursor.foreground": "#DBC08A",
+		"editor.foreground": "#3760bf",
+		"editorIndentGuide.background": "#4f4f5e40",
+		"editor.inactiveSelectionBackground": "#282833",
+		"editorWhitespace.foreground": "#4f4f5e",
+		"editor.lineHighlightBackground": "#00000030",
+		"editor.selectionBackground": "#9D599D40"
+	},
+	"name": "Tokyo Night Day"
+}
